@@ -10,7 +10,7 @@ pollution_multitask.py, pollution_multitask_predcsv.py, pollution_multitask_pred
 pollution_multitask_shap.py, pollution_multitask_shap_importance.py, and pollution_multitask_shap_scatter.py.They correspond to Python scripts for multitask neural network training, prediction, visualization, SHAP-based interpretation, and SHAP feature-importance visualization, respectively.
 
 ## Usage
-The pollution_multitask.py script operates based on a CSV file that provides the required input features, with detailed descriptions and configurations defined in the Python file.
+The pollution_multitask.py script operates based on a CSV file that provides the required input features, with detailed descriptions defined in the Python file.
 
 ## Environment
 - Python 3.12
